@@ -1,4 +1,4 @@
 pipeline {
-    agent maven:3.8.5-openjdk-17
+    agent 'maven:3.8.5-openjdk-17'
 
 }
